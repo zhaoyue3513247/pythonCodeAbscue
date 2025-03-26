@@ -1,0 +1,2 @@
+import py_compile
+py_compile.compile(r'C:\Users\zhaoy\PycharmProjects\fun_code\CecumShow3.py')
